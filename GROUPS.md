@@ -40,8 +40,8 @@ GROUP 5 : Laboratory
 - Wiafe Adjei Seth        MrWiafe
 - Abdul Razak Wasiu        Madibalive
 - Amoateng De-Graft        Amoateng
--Mensah Richard Okyere    Riomensah
--Isaac Osei               ikemillar
+- Mensah Richard Okyere    Riomensah
+- Isaac Osei               ikemillar
 
 
 - the last group
